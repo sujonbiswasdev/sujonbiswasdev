@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is sujon biswas
 #### I am GitHub Readme Generator's creator
 
-I am a Front-End Web Developer. I have successfully completed my web development course from Hablu Programmer. Their amazing team has trained me in such a way that now I can confidently say—
+I am a Front-End Web Developer. I have successfully completed my web development course from Hablu Programmer. Their amazing team has trained me in such a way that now I can confidently say
 
 👉 I can create any type of Modern, Responsive Website.
 My goal is to create a fast, beautiful and user-friendly website according to your needs that will make your business or brand stand out online.
