@@ -1,11 +1,11 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4E16AQFu83ASdk6CVQ/profile-displaybackgroundimage-shrink_350_1400/B4EZi5GNHBGwAY-/0/1755452069680?e=1758758400&v=beta&t=VBG7xkZxyXjCGBJcL7WpysyOa40W8sEVezw8yJ8zc5U)
-### Hi there 👋, my name is sujon biswas
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Sujon Biswas
+#### I am the creator of GitHub Readme Generator
 
 I am a Front-End Web Developer. I have successfully completed my web development course from Hablu Programmer. Their amazing team has trained me in such a way that now I can confidently say
 
 👉 I can create any type of Modern, Responsive Website.
-My goal is to create a fast, beautiful and user-friendly website according to your needs that will make your business or brand stand out online.
+My goal is to create a fast, beautiful, and user-friendly website according to your needs that will make your business or brand stand out online.
 
 🌐 Visit my website: https://sujonbiswasdev.vercel.app
 
