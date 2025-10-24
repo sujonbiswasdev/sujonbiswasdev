@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm sujon biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Skills: HTML/CSS/JAVASCRIPT/TYPESCRIPT/TAILWINDCSS/BOOTSTRAP/REACTJS/NEXTJS/NODEJS/EXPRESSJS/PRISMA/POSTGRESQL/FIREBASE/REDUX
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujonbiswasdev&label=Profile%20views&color=0e75b6&style=flat" alt="sujonbiswasdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujonbiswasdev" alt="sujonbiswasdev" /></a> </p>
