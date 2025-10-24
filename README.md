@@ -38,26 +38,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sujonbiswasdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sujonbiswasdev&icon=10&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-- 🔭 I’m currently working on this page. 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujonbiswasdev)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonbiswasdev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonbiswasdev&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sujonbiswasdev)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sujonbiswasdev)  
 
 
