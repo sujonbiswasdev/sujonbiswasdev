@@ -23,17 +23,10 @@ Skills: HTML/CSS/JAVASCRIPT/TYPESCRIPT/TAILWINDCSS/BOOTSTRAP/REACTJS/NEXTJS/NODE
 # Tech Stack
 
 **frontend :**  html , css , javascript , typescript , React ,  nextjs , firebase
-
-
 **Styling :** tailwindcss , bootstrap , sass
-
-
 **version control :** git , github
-
 **Server:** Node, Express
-
 **database :** prisma , postgresql
-
 **Others :** Adobe photoshop , Adobe illustrator, figma
 
 
