@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm sujon biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://breakable-yellow-gyxmc3guuc.edgeone.app/Purple%20Blue%20Modern%20Colorful%20Start%20Coding%20Youtube%20Thumbnail.png)
 
 Skills: HTML/CSS/JAVASCRIPT/TYPESCRIPT/TAILWINDCSS/BOOTSTRAP/REACTJS/NEXTJS/NODEJS/EXPRESSJS/PRISMA/POSTGRESQL/FIREBASE/REDUX
 
