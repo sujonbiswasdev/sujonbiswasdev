@@ -34,16 +34,6 @@ Skills: HTML/CSS/JAVASCRIPT/TYPESCRIPT/TAILWINDCSS/BOOTSTRAP/REACTJS/NEXTJS/NODE
 
 **Others :** Adobe photoshop , Adobe illustrator, figma
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujonbiswasdev&show_icons=true&locale=en&layout=compact" alt="sujonbiswasdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujonbiswasdev&show_icons=true&locale=en" alt="sujonbiswasdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujonbiswasdev&" alt="sujonbiswasdev" /></p>
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujonbiswasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sujonbiswasdev&theme=dark&hide_border=false)<br/>
